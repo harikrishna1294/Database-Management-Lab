@@ -98,7 +98,7 @@ To use the scripts in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/harikrishna1294/Database-Management-Lab-programs.git
+   https://github.com/harikrishna1294/Database-Management-Lab.git
    ```
 2. Navigate to the directory containing the scripts:
    ```bash

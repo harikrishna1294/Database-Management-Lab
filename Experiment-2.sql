@@ -1,9 +1,9 @@
 -- Database Creation
-/** Create a new database named 22501A0557 */
-CREATE DATABASE 22501A0557;
+/** Create a new database named 22501A0545 */
+CREATE DATABASE 22501A0545;
 
 /** Use the newly created database */
-USE 22501A0557;
+USE 22501A0545;
 
 -- Table Creation: EMPLOYEE
 /** Create a table named EMPLOYEE with various attributes */

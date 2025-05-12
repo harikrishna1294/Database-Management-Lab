@@ -1,7 +1,7 @@
 -- Inserting Values into Tables
 
-/** Use the database 22501A0557 */
-USE 22501A0557;
+/** Use the database 22501A0545 */
+USE 22501A0545;
 
 -- Insert values into EMPLOYEE table
 /** Insert multiple records into the EMPLOYEE table */

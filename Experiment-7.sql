@@ -1,5 +1,5 @@
--- Using the database 22501A0557
-USE 22501A0557;
+-- Using the database 22501A0545
+USE 22501A0545;
 
 -- Inner Join
 /** Select first name, last name, and department name by joining EMPLOYEE and DEPARTMENT tables using INNER JOIN */
